@@ -14,7 +14,7 @@ If running on Eclipse, (Run Configurations) and provide one of the 3 (Arguments)
 3.  To just show the directions
 
 		(java StreetMap mapname.txt --directions From To) eg (java StreetMap ur.txt --directions HOYT MOREY)
-
+Remember to not include the brackets in the argument
 # Preview
 No preview is available since it's an image file.
 
