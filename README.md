@@ -3,6 +3,7 @@ Implementation of Dijkstra's Algorithm using NY State, Monroe County, and Univer
 
 # Configuration
 3 files(.txt) are provided with GPS Coordinates
+
 If running on Eclipse, (Run Configurations) and provide one of the 3 (Arguments) listed below:
 1. To show both the map and the directions
 		(java StreetMap mapname.txt --show --directions From To) eg (java StreetMap ur.txt --show --directions HOYT MOREY)
