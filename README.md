@@ -13,4 +13,5 @@ If running on Eclipse, (Run Configurations) and provide one of the 3 (Arguments)
 
 # Preview
 No preview is available since it's an image file.
+
 Contact: benson7484@gmail.com (Subject: Dijkstra-s-Algorithm Image file) to receive a copy of the Image Doc
