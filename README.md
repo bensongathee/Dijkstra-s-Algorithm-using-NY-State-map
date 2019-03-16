@@ -18,4 +18,4 @@ Remember to not include the brackets in the argument
 # Preview
 No preview is available since it's an image file.
 
-Contact: benson7484@gmail.com (Subject: Dijkstra-s-Algorithm Image file) to receive a copy of the Image Doc and runtime analysis
+Contact: bgathee@u.rochester.edu (Subject: Dijkstras Algorithm Image file) to receive a copy of the Image Doc and runtime analysis
